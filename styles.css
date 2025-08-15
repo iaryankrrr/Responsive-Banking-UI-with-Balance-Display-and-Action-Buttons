@@ -1,0 +1,17 @@
+.age {
+  width: 7ch;
+  background-color: aliceblue;
+}
+#name {
+  background-color: aliceblue;
+}
+.email {
+  background-color: aliceblue;
+}
+*{
+  background-color: aqua;
+}
+#reg{
+  background-color: rgb(171, 95, 243);
+  color: #ffffff;
+}
